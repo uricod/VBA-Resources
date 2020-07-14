@@ -2,7 +2,7 @@
 
 This is my list of resources I used to learn Excel and VBA and as a reference for my coding projects
 
-## LEARN VBA
+## LEARN
 
 ### VIDEOS
 

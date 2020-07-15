@@ -27,9 +27,19 @@ This is my list of resources I used to learn Excel and VBA and as a reference fo
 
 ### MUST HAVE EXCEL ADDINS
 
-1. Power Query a Microsoft product. Great for data manipulation. (https://www.microsoft.com/en-us/download/details.aspx?id=39379)
+1. Power Query a Microsoft product. Great for data manipulation. (https://www.microsoft.com/en-us/download/details.aspx?id=39379) - Check out Power Pivot as well. 
 2. Fuzzy Lookup Addin. A must have for parital text match. (https://www.microsoft.com/en-us/download/details.aspx?id=15011)
-3. KuTools is for overall tasks in excel addin. Free trial. (https://www.extendoffice.com/download/kutools-for-excel.html)
+3. Solver Addin. (https://support.microsoft.com/en-us/office/load-the-solver-add-in-in-excel-612926fc-d53b-46b4-872c-e24772f078ca)
+4. Power Apps Addin. Turn your spreadsheet data into a database for a app. (https://appsource.microsoft.com/en-in/product/office/WA104380330?tab=Overview)
+
+
+## VBA Libraries from Web
+
+1. JSON VBA Library. (https://github.com/VBA-tools/VBA-JSON)
+2. A functional VBA wrapper. (https://github.com/sancarn/VBA-STD-Library)
+3. Algorthims in VBA. Very Interesting. (https://github.com/yhpong/Scientific-Toolkit)
+4. REST API Library. Easier to use then WinHTTP. (https://github.com/frah/VBA-Redmine)
+
 
 
 

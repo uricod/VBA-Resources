@@ -22,13 +22,7 @@ This is my list of resources I used to learn Excel and VBA and as a reference fo
 1. The only book that I recommend is this one from John Walkenbach. (https://www.amazon.com/Excel-2013-Power-Programming-VBA/dp/1118490398)
 
 
-## CODE BY TOPIC 
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>WORKBOOKS</a></i></small>
-
-WORKBOOKS
-
-WORKSHEETS
 
 
 

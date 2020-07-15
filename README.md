@@ -24,7 +24,7 @@ This is my list of resources I used to learn Excel and VBA and as a reference fo
 
 ## CODE BY TOPIC 
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>WORKBOOKS</a></i></small>
 
 WORKBOOKS
 

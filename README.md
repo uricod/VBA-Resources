@@ -29,7 +29,8 @@ This is my list of resources I used to learn Excel and VBA and as a reference fo
 
 1. Power Query a Microsoft product. Great for data manipulation. (https://www.microsoft.com/en-us/download/details.aspx?id=39379)
 2. Fuzzy Lookup Addin. A must have for parital text match. (https://www.microsoft.com/en-us/download/details.aspx?id=15011)
-3. 
+3. KuTools is for overall tasks in excel addin. Free trial. (https://www.extendoffice.com/download/kutools-for-excel.html)
+
 
 
 
